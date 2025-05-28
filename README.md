@@ -59,3 +59,4 @@ Mahmoud Mayaleh and Samer Mayaleh,
 
 ## License
 MIT License
+Copyright (c) 2025 Mahmoud Mayaleh
